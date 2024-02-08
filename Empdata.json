@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Employee": [
+    {
+      "empno": "uytyyufg",
+      "name": "ugiu",
+      "department": "yuuiuio",
+      "sallary": "yyui",
+      "id": 5
+    },
+    {
+      "empno": "uytyyufg",
+      "name": "ugiu",
+      "department": "yuuiuio",
+      "sallary": "yyui",
+      "id": 6
+    },
+    {
+      "empno": "uytyyufg",
+      "name": "ugiu",
+      "department": "yuuiuio",
+      "sallary": "yyui",
+      "id": 7
+    },
+    {
+      "empno": "hfjhgjh",
+      "name": "hyjju",
+      "department": "dfju",
+      "sallary": "fjjyu",
+      "id": 8
+    }
+  ]
+}
